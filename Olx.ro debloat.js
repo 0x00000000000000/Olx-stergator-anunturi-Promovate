@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Remove elements with "adCard-featured" on olx.ro (Sterge anunturile promovate pe Olx ROMANIA, vezi exeomplu in descriere)
 // @namespace    olxro-remove-adCard-featured
-// @version      1.0
+// @version      1.1
 // @description  Removes elements with "adCard-featured" on olx.ro
 // @author       BAGHERA ROMANIA
 // @match        https://www.olx.ro/*
